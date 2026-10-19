@@ -1,0 +1,35 @@
+EXECUTIVE SUMMARY
+
+Project Title: End-to-End Data Analysis of Online Retail Transactions
+
+1. Project Overview
+This project analyzes an online retail transaction dataset to understand
+sales performance, customer purchasing patterns, product performance,
+and business trends.
+
+2. Project Workflow
+The project follows an end-to-end data analytics workflow:
+- Data Exploration
+- Data Cleaning and Quality Checks
+- Data Visualization
+- Statistical Analysis
+- Machine Learning and Predictive Modeling
+- Business Insights and Recommendations
+
+3. Tools Used
+Python and Jupyter Notebook were used for data analysis, data processing,
+visualization, statistical testing, and machine learning.
+
+4. Key Findings
+The final findings will be added after verifying the actual outputs
+generated in Tasks 1–5. No unverified metrics or model results will be
+reported.
+
+5. Business Value
+The analysis aims to support data-driven decisions related to sales
+performance, product demand, customer behavior, and retail operations.
+
+6. Limitations
+The reliability of conclusions depends on data quality, the available
+observation period, the analytical methods used, and the predictive
+model's evaluation results.

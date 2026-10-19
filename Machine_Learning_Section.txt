@@ -1,0 +1,43 @@
+6. MACHINE LEARNING
+
+Objective
+The objective of this stage was to build a machine learning model
+to predict product quantity using historical online retail data.
+
+Data Preparation
+The transaction data was cleaned, and records with unsuitable
+quantity or unit-price values were handled according to the
+preprocessing approach used in Task 5. Product-level daily sales
+observations were prepared for modeling.
+
+Model Development
+A Random Forest Regressor was trained to predict the quantity
+associated with the next recorded observation. RandomizedSearchCV
+and TimeSeriesSplit were used for model tuning and time-aware
+validation.
+
+Important Limitation
+The next recorded observation does not necessarily represent the
+next calendar day because days without recorded sales may be absent.
+Predictions should therefore be interpreted according to the
+dataset's observation structure.
+
+Model Evaluation
+The model should be evaluated using:
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R-squared (R²)
+
+Actual evaluation scores and model comparisons must be taken from
+the output files generated in Task 5. The report should not claim
+that the model performs well without reviewing these metrics.
+
+Feature Importance
+Feature-importance results may help describe which model inputs
+contributed most to its predictions. Feature importance does not
+prove that a feature causes changes in sales.
+
+Limitations
+Model performance may be affected by returns, irregular transaction
+timing, limited features, data quality, and changes in customer
+demand. Performance on future data may differ from validation results.

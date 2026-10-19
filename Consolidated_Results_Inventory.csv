@@ -1,0 +1,13 @@
+Task,File,Rows,Columns,Column Names
+Task 1,Country_Revenue_Analysis.csv,38,4,"Country, Total_Invoices, Total_Quantity, Total_Revenue"
+Task 1,Monthly_Revenue_Analysis.csv,13,2,"Month, Revenue"
+Task 2,Data_Quality_Before_After.csv,4,3,"Metric, Before Cleaning, After Cleaning"
+Task 2,Final_Data_Cleaning_Summary.csv,13,2,"Metric, Value"
+Task 2,Online_Retail_Cleaned.csv,536641,15,"InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Revenue, Is_Cancellation, Is_Return, InvoiceYear, InvoiceMonth, InvoiceDay, InvoiceWeekday"
+Task 3,Week3_Dataset_Key_Metrics.csv,6,2,"Metric, Value"
+Task 3,Week3_Monthly_Revenue_Summary.csv,13,2,"Month, Total_Revenue"
+Task 4,Week4_Regression_Results.csv,4,2,"Metric, Value"
+Task 4,Week4_Statistical_Test_Summary.csv,4,5,"Test, Statistic, P_Value, Alpha, Decision"
+Task 5,Final_Model_Metrics.csv,4,2,"Metric, Value"
+Task 5,Final_Model_Predictions.csv,54446,5,"Date, StockCode, Actual_Quantity, Predicted_Quantity, Absolute_Error"
+Task 5,Model_Comparison.csv,2,4,"Model, MAE, RMSE, R2"

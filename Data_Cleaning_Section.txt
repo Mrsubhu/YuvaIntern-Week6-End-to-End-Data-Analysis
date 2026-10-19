@@ -1,0 +1,25 @@
+3. DATA CLEANING
+
+Data cleaning was performed to improve the reliability of the
+transaction data before visualization, statistical analysis,
+and predictive modeling.
+
+The cleaning workflow included:
+
+1. Identifying and handling duplicate records.
+2. Examining missing product descriptions and customer identifiers.
+3. Checking transactions with zero or negative quantities.
+4. Checking zero or negative unit prices.
+5. Creating a revenue measure using quantity and unit price.
+6. Identifying cancellation or return-related transactions.
+7. Extracting date-related features for time-based analysis.
+
+Data quality decisions should be documented carefully. Missing
+customer identifiers do not necessarily mean that a transaction
+is invalid. Similarly, negative quantities may represent returns
+or cancellations and should be interpreted in context.
+
+The cleaned dataset and quality-check results from Task 2 should
+be used to report the exact number of rows removed, retained,
+or modified. These figures must be verified from the actual
+Task 2 outputs before the final report is submitted.

@@ -1,0 +1,35 @@
+5. STATISTICAL ANALYSIS
+
+Statistical analysis was conducted to investigate patterns and
+relationships in the online retail transaction data.
+
+The analyses performed in Task 4 included:
+
+1. Welch's t-test:
+   Used to compare average daily revenue between January and
+   February 2011. The result should be interpreted alongside
+   sample sizes, variability, and the selected significance level.
+
+2. Pearson correlation:
+   Used to measure the linear association between quantity and
+   revenue. Correlation does not establish causation, and the
+   mathematical relationship between these variables should be
+   considered when interpreting the result.
+
+3. Chi-square test:
+   Used to examine whether month and cancellation status were
+   statistically associated. Expected cell counts should be
+   checked when assessing the validity of the test.
+
+4. Multiple linear regression:
+   Used to examine how quantity and unit price relate to revenue.
+   Because revenue is calculated from quantity and unit price,
+   this relationship is partly mathematical rather than evidence
+   of an independent business cause.
+
+RESULTS AND INTERPRETATION
+
+The actual test statistics, p-values, effect sizes where applicable,
+and conclusions must be taken from the Task 4 output files.
+No statistical significance claim should be made without checking
+the corresponding results.

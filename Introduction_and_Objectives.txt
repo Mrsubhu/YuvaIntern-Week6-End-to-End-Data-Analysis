@@ -1,0 +1,35 @@
+1. INTRODUCTION
+
+Online retail businesses generate transaction data that can help explain
+sales performance, product demand, and customer purchasing behavior.
+Analyzing this data can help businesses identify patterns, monitor
+performance, and make informed operational decisions.
+
+This project uses the Online Retail dataset and follows an end-to-end
+data analytics workflow, from initial data exploration to predictive
+modeling. The work consolidates the analyses performed during Weeks 1–5
+of the internship.
+
+2. PROJECT OBJECTIVES
+
+The main objectives are:
+
+1. Explore the dataset and understand its structure and data quality.
+2. Identify missing values, duplicate records, and invalid transactions.
+3. Prepare a cleaned dataset for analysis.
+4. Visualize sales trends and product performance.
+5. Apply statistical methods to examine relationships and differences.
+6. Build and evaluate a machine learning model for sales-related
+   prediction.
+7. Convert verified analytical findings into practical business
+   recommendations.
+
+3. PROJECT SCOPE
+
+The project covers transaction-level retail data, including invoice
+dates, products, quantities, unit prices, and customer identifiers
+where available.
+
+The analysis is limited to the fields and time period available in
+the dataset. Findings will be interpreted in the context of the
+dataset and the methods used.

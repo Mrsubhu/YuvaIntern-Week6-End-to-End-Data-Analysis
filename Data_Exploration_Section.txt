@@ -1,0 +1,13 @@
+2. DATA EXPLORATION
+
+The dataset contains 541,909 rows and 8 columns.
+
+Duplicate rows identified: 5,268
+
+Total missing cells: 136,534
+
+The dataset's columns and data types were examined to understand
+the structure of the transaction records. Missing values and duplicate
+records were identified as part of the initial data quality assessment.
+
+The dataset overview metrics are saved in Data_Exploration_Summary.csv.

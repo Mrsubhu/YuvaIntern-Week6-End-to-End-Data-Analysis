@@ -1,0 +1,20 @@
+4. DATA VISUALIZATION
+
+Visualizations were created to communicate retail sales patterns and support business interpretation.
+
+Charts and their purposes:
+- Task3_Monthly_Revenue_Line_Chart.png
+  Purpose: Shows changes in revenue over time.
+- Task3_Quantity_vs_Revenue_Scatter_Plot.png
+  Purpose: Examines the relationship between quantity and revenue.
+- Task3_Sales_Correlation_Heatmap.png
+  Purpose: Summarizes correlations between selected numerical variables.
+- Task3_Top_10_Products_Bar_Chart.png
+  Purpose: Compares the leading products by the selected sales measure.
+- Task5_Actual_vs_Predicted.png
+  Purpose: Review the chart and document its specific finding.
+- Task5_Feature_Importance.png
+  Purpose: Review the chart and document its specific finding.
+
+Interpretation:
+The final report should describe the patterns visible in each chart and include numerical claims only when they have been verified from the corresponding analysis outputs.
